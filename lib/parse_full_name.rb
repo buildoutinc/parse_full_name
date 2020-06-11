@@ -1,0 +1,5 @@
+require "parse_full_name/error"
+require "parse_full_name/version"
+require "parse_full_name/configuration"
+require "parse_full_name/name"
+require "parse_full_name/parser"
